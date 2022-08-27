@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "992524408278",
+    "firebase_url": "https://ekart-a8f3b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ekart-a8f3b",
+    "storage_bucket": "ekart-a8f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992524408278:android:05780f7864e6101b09c077",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992524408278-eraf9li56ru7bs3q8ei7kjfise6nouc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4_IoDA6Iy-m4zHUKtLhyi_5OQn7z7Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992524408278-eraf9li56ru7bs3q8ei7kjfise6nouc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992524408278:android:c2593961b1e9b57f09c077",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992524408278-eraf9li56ru7bs3q8ei7kjfise6nouc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4_IoDA6Iy-m4zHUKtLhyi_5OQn7z7Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992524408278-eraf9li56ru7bs3q8ei7kjfise6nouc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
