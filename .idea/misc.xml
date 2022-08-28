@@ -22,8 +22,9 @@
         <entry key="..\:/MAD/ekart/app/src/main/res/layout/cart_items_layout.xml" value="0.22826086956521738" />
         <entry key="..\:/MAD/ekart/app/src/main/res/layout/content.xml" value="0.13958333333333334" />
         <entry key="..\:/MAD/ekart/app/src/main/res/layout/header.xml" value="0.13958333333333334" />
-        <entry key="..\:/MAD/ekart/app/src/main/res/layout/orders_layout.xml" value="0.13958333333333334" />
+        <entry key="..\:/MAD/ekart/app/src/main/res/layout/orders_layout.xml" value="0.2" />
         <entry key="..\:/MAD/ekart/app/src/main/res/layout/product_items_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/MAD/ekart/app/src/main/res/layout/toolbar.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>

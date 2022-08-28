@@ -4,19 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AdminNewOrdersActivity">
+    tools:context=".AdminNewOrdersActivity"
+    android:background="@color/white">
     <RelativeLayout
         android:id="@+id/r2"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/colorPrimaryDark"
+        android:background="#81e0f7"
         android:layout_alignParentTop="true"
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="New Orders"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/background_dark"
             android:textSize="25dp"
             android:textAlignment="center"
             android:layout_marginTop="10dp"
